@@ -6,8 +6,15 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 # 💫 About Me:
- 🔭 I'm a sophomore at IIIT Gwalior.<br> 🌱 I’m currently learning Data Structures and Algorithms.<br> 👯 I’m currently enhancing my skills in the field of Web Development.<br> 🤝  I’m looking to collaborate on Open Source Projects. <br> 📫 Reach me at my aleesha.lalit@gmail.com
-
+<ul>
+ <li> 🔭 I'm Sophomore at IIIT Gwalior.</li>
+ <li>🌱 I’m currently learning Data Structures and Algorithms.</li>
+ <li> 👯 I’m currently enhancing my skills in the field of Web Development.</li>
+ <li>🤝  I’m looking to collaborate on Open Source Projects.</li>
+ <li> 📫 Reach me at aleesha.lalit@gmail.com</li>
+</ul>
+<!--  🔭 I'm a sophomore at IIIT Gwalior.<br> 🌱 I’m currently learning Data Structures and Algorithms.<br> 👯 I’m currently enhancing my skills in the field of Web Development.<br> 🤝  I’m looking to collaborate on Open Source Projects. <br> 📫 Reach me at aleesha.lalit@gmail.com
+ -->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aleesha.lalit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aleesha2002) 
