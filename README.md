@@ -7,13 +7,13 @@
 
 # 💫 About Me:
 <ul>
- <li> 🔭 I'm Sophomore at IIIT Gwalior.</li>
+ <li> 🔭 I'm pre-final year student at IIIT Gwalior.</li>
  <li>🌱 I’m currently learning Data Structures and Algorithms.</li>
- <li> 👯 I’m currently enhancing my skills in the field of Web Development.</li>
- <li>🤝  I’m looking to collaborate on Open Source Projects.</li>
+ <li> 👯 At the moment, I'm honing my web development abilities as well as exploring other domains such as Blockchain Development.</li>
+ <li>🤝  I’m also looking to collaborate on Open Source Projects as well.</li>
  <li> 📫 Reach me at aleesha.lalit@gmail.com</li>
 </ul>
-<!--  🔭 I'm a sophomore at IIIT Gwalior.<br> 🌱 I’m currently learning Data Structures and Algorithms.<br> 👯 I’m currently enhancing my skills in the field of Web Development.<br> 🤝  I’m looking to collaborate on Open Source Projects. <br> 📫 Reach me at aleesha.lalit@gmail.com
+<!--  🔭 I'm a pre-final year student at IIIT Gwalior.<br> 🌱 I’m currently learning Data Structures and Algorithms.<br> 👯  At the moment, I'm honing my web development abilities as well as exploring other domains such as Blockchain Development.<br> 🤝  I’m also looking to collaborate on Open Source Projects as well. <br> 📫 Reach me at aleesha.lalit@gmail.com
  -->
 
 ## 🌐 Socials:
