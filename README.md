@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 <ul>
- <li> 🔭 I'm pre-final year student at IIIT Gwalior.</li>
+ <li> 🔭 I'm final year student at IIIT Gwalior.</li>
  <li>🌱 I’m currently learning Data Structures and Algorithms.</li>
  <li> 👯 At the moment, I'm honing my web development abilities as well as exploring other domains such as Blockchain Development.</li>
  <li>🤝  I’m also looking to collaborate on Open Source Projects as well.</li>
